@@ -19,7 +19,13 @@ The data is structured in JSON format, organized by states, their codes, and the
     // Add more states and cities as needed
   ]
 }
-
+```
 
 ### Usage
 Feel free to use the provided JSON data in your projects. You can use it to dynamically populate dropdowns, select boxes, or any other user interface elements requiring information about Indian states and cities.
+
+### Contributions
+If you find any inaccuracies or missing information, please feel free to contribute by submitting a pull request. Your contributions are highly appreciated!
+
+### License
+This project is licensed under the MIT License.
